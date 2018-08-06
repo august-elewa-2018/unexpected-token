@@ -62,5 +62,5 @@ ___
 
 ## review
 
-I learned.  promise.
+I learned semicolons can help with debugging.
 
