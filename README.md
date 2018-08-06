@@ -52,6 +52,8 @@ ___
 
 ongoing.  (almost) every time you come across it, copy-paste the code into this repo. if the code is long you can put it in a separate file.
 
+[replit](https://repl.it/@colevandersWands/unexpected-token)
+
 ___
 
 ## helpful links
